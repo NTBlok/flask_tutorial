@@ -1,5 +1,6 @@
     cd myflask_project
     touch README.md
+    ./setup.sh
     pip install markdown
     git init
     mkdir app
